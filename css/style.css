@@ -1,28 +1,38 @@
 .navbar {
     background-color: rgba(114, 114, 231, 0.836);
 }
-
 .nav-item {
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.inicio {
-    padding-top: 40px;
+footer {
+    margin-top: 100px;
+}
+
+.texto-titulo {
     padding-bottom: 30px;
     font-family: Times;
-    background-color: rgb(143, 140, 140);
-
 }
-.texto-inicio {
-    padding-bottom: 30px;
-}
-
-.minha-descricao {
+.paragrafo {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 
+.inicio {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: rgb(143, 140, 140);
+}
 .botao-do-inicio {
     background-color: rgb(56, 56, 56);
 }
+
+.jogos {
+    padding-top: 30px;,
+    padding-bottom: 100px;
+}
+.logos {
+    padding-top: 60px;
+}
+
