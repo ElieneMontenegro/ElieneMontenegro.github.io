@@ -6,3 +6,30 @@
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.inicio {
+    padding-top: 20px;
+    font-family: 'Times New Roman';
+}
+
+.foto {
+    padding-left: 250px;
+}
+.foto-com-texto {
+    padding-top: 50px;
+}
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Georgia;
+}
+
+.minha-descricao {
+    margin-top: 60px;
+}
+
+.botao-do-inicio {
+    margin-top: 20px;
+    margin-left: 200px;
+}
