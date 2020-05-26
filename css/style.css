@@ -28,11 +28,12 @@ footer {
     background-color: rgb(56, 56, 56);
 }
 
-.jogos {
-    padding-top: 30px;,
-    padding-bottom: 100px;
-    background-color: rgba(114, 114, 231, 0.836);
 
+.jogos {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgba(141, 141, 226, 0.836);
+    
 }
 .logos {
     padding-top: 60px;
@@ -40,5 +41,11 @@ footer {
 .segundo-container {
     padding-top: 50px;
     padding-bottom:40px;
+}
+
+.livros {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: rgb(143, 140, 140);
 }
 
