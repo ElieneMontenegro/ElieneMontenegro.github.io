@@ -31,8 +31,14 @@ footer {
 .jogos {
     padding-top: 30px;,
     padding-bottom: 100px;
+    background-color: rgba(114, 114, 231, 0.836);
+
 }
 .logos {
     padding-top: 60px;
+}
+.segundo-container {
+    padding-top: 50px;
+    padding-bottom:40px;
 }
 
