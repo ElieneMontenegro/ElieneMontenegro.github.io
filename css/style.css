@@ -9,7 +9,10 @@
 
 .inicio {
     padding-top: 40px;
+    padding-bottom: 30px;
     font-family: Times;
+    background-color: rgb(143, 140, 140);
+
 }
 .texto-inicio {
     padding-bottom: 30px;
@@ -18,4 +21,8 @@
 .minha-descricao {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
+}
+
+.botao-do-inicio {
+    background-color: rgb(56, 56, 56);
 }
