@@ -8,28 +8,14 @@
 }
 
 .inicio {
-    padding-top: 20px;
-    font-family: 'Times New Roman';
+    padding-top: 40px;
+    font-family: Times;
 }
-
-.foto {
-    padding-left: 250px;
-}
-.foto-com-texto {
-    padding-top: 50px;
-}
-
-p {
-    margin-left: 50px;
-    margin-right: 50px;
-    font-family: Georgia;
+.texto-inicio {
+    padding-bottom: 30px;
 }
 
 .minha-descricao {
-    margin-top: 60px;
-}
-
-.botao-do-inicio {
-    margin-top: 20px;
-    margin-left: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
