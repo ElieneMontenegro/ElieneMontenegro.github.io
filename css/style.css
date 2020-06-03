@@ -7,7 +7,9 @@
 }
 
 footer {
-    margin-top: 100px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    background-color: rgb(143, 140, 140);
 }
 
 .texto-titulo {
@@ -49,3 +51,12 @@ footer {
     background-color: rgb(143, 140, 140);
 }
 
+.contato {
+    background-color: rgba(141, 141, 226, 0.836);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.vai-pro-centro {
+    padding-left: 200px;
+}
